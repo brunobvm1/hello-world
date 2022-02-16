@@ -1,2 +1,2 @@
 # hello-world
-Repositório Lição de Casa
+Repositório de Aprendizado.
